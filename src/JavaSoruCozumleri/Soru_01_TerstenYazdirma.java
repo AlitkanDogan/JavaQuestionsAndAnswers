@@ -20,7 +20,6 @@ public class Soru_01_TerstenYazdirma {
 
         String yeniMetin="";
 
-
         for (int i = metin.length(); i >0 ; i--) {
 
             yeniMetin+=metin.charAt(i-1);
